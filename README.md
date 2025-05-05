@@ -30,11 +30,8 @@ This Teachers Database Management System (DBMS) is a web-based application desig
    - **Delete**: Remove teachers from the database.
 4. Utilize the search functionality to find specific teachers based on different criteria.
 
-## Contributors
-- Ankit Pal
+
 
 ## License
 This project is licensed under the MIT License.
 
-## Support
-For any inquiries or issues, please contact [ankitp19102002@gmail.com](mailto:ankitp19102002@gmail.com).
